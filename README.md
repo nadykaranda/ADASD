@@ -11,15 +11,8 @@ Este es un proyecto js de rolling code, la cual se trata de las mejores bebidas 
 <br>
 
 <p align="center">
-	<a href="https://github.com/sbs001" target="_blank" rel="noopener noreferrer" ><img width="100" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/50562395?v=4" alt="avatar"></a>
-  <a href="https://github.com/jessicasaule" target="_blank" rel="noopener noreferrer" ><img width="100" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/79380528?v=4" alt="avatar"></a>
-  <a href="https://github.com/dfvallejosc" target="_blank" rel="noopener noreferrer" ><img width="100" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/74154979?v=4" alt="avatar"></a>
-	<a href="https://github.com/DimitriTriantafilo" target="_blank" rel="noopener noreferrer" ><img width="100" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/77981692?v=4" alt="avatar"></a>
-	<a href="https://github.com/scriptnoob12" target="_blank" rel="noopener noreferrer" ><img width="100" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/58433889?v=4" alt="avatar"></a>
-	<a href="https://github.com/RJurado16" target="_blank" rel="noopener noreferrer" ><img width="100" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/68952790?v=4" alt="avatar"></a>
-	<a href="https://github.com/jaimegalvis" target="_blank" rel="noopener noreferrer" ><img width="100" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/23098246?v=4" alt="avatar"></a>
-	<a href="https://github.com/gonza-fl" target="_blank" rel="noopener noreferrer" ><img width="100" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/29445888?v=4" alt="avatar"></a>
-	<a href="https://github.com/nohaynicksdisponibles" target="_blank" rel="noopener noreferrer" ><img 	width="100" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/60353353?v=4" 	alt="avatar"></a>
+	<img width="100" style="border-radius:50%" src="./img/axel.jpg" alt="avatar">
+  
 </p>
 
 <br>
