@@ -13,7 +13,6 @@ Este es un proyecto js de rolling code, la cual se trata de las mejores bebidas 
 <p align="center">
 	<img width="100" style="border-radius:50%" src="./img/axel.jpg" alt="avatar">
 	<img width="100" style="border-radius:50%" src="./img/nadia.jpg" alt="avatar">
-  
 </p>
 
 <br>
